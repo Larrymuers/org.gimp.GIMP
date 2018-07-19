@@ -362,6 +362,7 @@
                 {
                     "name": "lapack",
                     "buildsystem": "cmake",
+                    "builddir": true,
                     "sources": [
                         {
                             "type": "archive",
